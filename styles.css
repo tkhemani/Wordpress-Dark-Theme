@@ -1,0 +1,23 @@
+@namespace url(http://www.w3.org/1999/xhtml);
+@-moz-document url-prefix('https://wordpress.com/post') {   
+.editor,.post-editor__sidebar,.site__content,.card,.editor-ground-control,.accordion__toggle,.mce-edit-area,.tinymce,#tinymce-1_ifr,.mce-content-body,.mceu_30,.mce-toolbar,.segmented-control__link,.masterbar__publish,.masterbar__toggle-drafts,.masterbar__item,.masterbar__item:visited,.site-selector,.site-selector__sites {
+ background-color: #1a1a1a !important;
+    background: #1a1a1a !important;
+    color: #757575 !important;
+    outline-color: #1a1a1a !important;
+    -webkit-tap-highlight-color: #1a1a1a !important;
+}
+
+.masterbar{
+ background-color: #1a1a1a !important; 
+}
+
+.editor-title__input{
+ background-color: #1a1a1a !important; 
+    color: #757575 !important;
+}
+
+::-webkit-scrollbar-track-piece{
+    background-color: #1a1a1a !important;
+}
+}
